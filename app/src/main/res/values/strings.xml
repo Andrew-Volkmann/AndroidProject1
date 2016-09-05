@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="EnterNumber">Enter a Number</string>
+    <string name="OldBaseNumber">Base Number</string>
+    <string name="wantedBase">Desired Base</string>
+    <string name="convert">Convert!</string>
+    <string name="Toast">Invalid input</string>
+</resources>
