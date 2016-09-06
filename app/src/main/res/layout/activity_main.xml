@@ -33,7 +33,7 @@
             android:inputType="number"
             />
         <EditText
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:id="@+id/Base"
@@ -55,15 +55,13 @@
             android:id="@+id/newBase"
             android:hint="@string/wantedBase"
             android:textSize="@dimen/EditTextSize"
-            android:paddingRight="@dimen/PaddingSize"
             android:inputType="number"
             />
         <Button
             android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingLeft="40sp"
-            android:paddingRight="40sp"
+
             android:id="@+id/ConvertButton"
             android:text="@string/convert"
             />
